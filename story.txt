@@ -6,3 +6,4 @@ Line 5 : Starts in River
 Line 6 : Enters the river.
 Line 7 : Water current is high.
 Line 8 : Finds a Boat. 
+Line 9 : Crosses the River
